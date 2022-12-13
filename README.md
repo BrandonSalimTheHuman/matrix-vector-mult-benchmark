@@ -26,7 +26,7 @@ And here is the graph plotted from that data:
 ![graph](https://user-images.githubusercontent.com/114371928/207347924-6ca46435-44b7-459e-854e-df001282e070.png)
 
 # Space
-![graph](https://user-images.githubusercontent.com/114371928/207348769-3105d8fe-f66d-4389-b490-f3ab48facd95.png)
+![space](https://user-images.githubusercontent.com/114371928/207350008-62bc853e-c19b-4b15-83fa-e43b68753697.png)
 
 Focus on the memory usage of main.
 For this test, the value of n is set to 100.
